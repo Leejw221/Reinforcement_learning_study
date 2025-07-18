@@ -1,5 +1,4 @@
-💡참고 link  
-**link:** [huggingface](https://huggingface.co/learn/deep-rl-course/unit1/introduction)
+💡참고 link [huggingface](https://huggingface.co/learn/deep-rl-course/unit1/introduction)
 
 # 1. What is Reinforcement Learning?
 ---
