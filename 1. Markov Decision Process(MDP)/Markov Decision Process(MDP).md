@@ -1,5 +1,5 @@
 **link:** [Huggingface]https://huggingface.co/learn/deep-rl-course/unit1/introduction
-
+  
 # 1. What is Reinforcement Learning?
 ### **1. 큰 맥락에서의 개념**
 - Agent인 AI가 시행착오를 통해 환경과 상호 작용을 하고 작업 수행에 대한 feedback으로 reward인 부정 또는 긍정을 받음으로써 환경으로부터 학습하는 것이다.
@@ -9,7 +9,7 @@
 - 환경으로부터 학습하는 agent를 구축하여 control task을 해결하기 위한 framwork이다.
     - 여기서 ‘환경으로부터 학습’이란 시행착오를 통해 환경과 상화 작용하고 고유한 feedback으로 positive 또는 negative reward을 받는 방식이다.
     - Reinforcement learning is a framework for solving control tasks (also called decision problems) by building agents that learn from the environment by interacting with it through trial and error and receiving rewards (positive or negative) as unique feedback.
-
+  
 # 2. The Reinforcement Learning Framework
 ### 1. The RL Process
 
@@ -73,8 +73,7 @@ The RL Process: a loop of state, action, reward and next state
         - Time step이 증가하면서 미래의 보상이 발생할 가능성은 점점 줄어들기 때문이다.
     
     ![image.png](image%205.png)
-    
-
+  
 # 3. The type of tasks
 ### 1. Task의 종류
 
@@ -87,7 +86,7 @@ The RL Process: a loop of state, action, reward and next state
     - 영원히 지속된다.
     - Agent는 최상의 작업을 선택하는 동시에 환경과 상호 작용하는 방법을 학습해야 한다.
         - Agent가 종료할 때까지 계속 진행되는 것이다.
-
+  
 # 4. The Exploration/ Exploitation tradeoff
 ### 1. Exploration(탐색)
 
@@ -106,8 +105,8 @@ The RL Process: a loop of state, action, reward and next state
 - 정리하면, Exploitation를 통해 매일 좋다고 알고 있는 같은 식당에 가서 다른 더 좋은 식당을 놓칠 위험을 감수해야 한다. 하지만 Exploration을 통해 나쁜 경험을 할 위험은 있지만 환상적인 경험을 할 수 있는 기회를 가지고 전에 가본 적이 없는 식당을 알 수 있다.
     
     ![image.png](image%206.png)
-    
 
+  
 # 5. The two main approaches for solving RL problems
 ### 1. 필요성
 
@@ -161,7 +160,7 @@ The RL Process: a loop of state, action, reward and next state
     
     ![image.png](image%2011.png)
     
-
+  
 # 6. The “Deep” in Deep Reinforcement Learning
 ### 1. 개념
 
@@ -169,9 +168,5 @@ The RL Process: a loop of state, action, reward and next state
 
 ![image.png](image%2012.png)
 
-<aside>
-💡
 
-용어: [Huggingface]https://huggingface.co/learn/deep-rl-course/unit1/glossary
-
-</aside>
+💡 용어: [Huggingface]https://huggingface.co/learn/deep-rl-course/unit1/glossary
