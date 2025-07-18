@@ -1,4 +1,4 @@
-**link:** [Huggingface]https://huggingface.co/learn/deep-rl-course/unit1/introduction
+**link:** [Huggingface](https://huggingface.co/learn/deep-rl-course/unit1/introduction)
   
 # 1. What is Reinforcement Learning?
 ### **1. 큰 맥락에서의 개념**
@@ -169,4 +169,4 @@ The RL Process: a loop of state, action, reward and next state
 ![image.png](image%2012.png)
 
 
-💡 용어: [Huggingface]https://huggingface.co/learn/deep-rl-course/unit1/glossary
+💡 용어: [Huggingface](https://huggingface.co/learn/deep-rl-course/unit1/glossary)
