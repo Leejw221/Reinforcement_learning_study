@@ -14,6 +14,5 @@
 
 
 
-
 # 2. The Reinforcement Learning Framework
 ### 1. The RL Process
