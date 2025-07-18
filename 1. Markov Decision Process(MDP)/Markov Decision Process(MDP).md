@@ -13,7 +13,6 @@
 # 2. The Reinforcement Learning Framework
 ### 1. The RL Process
 ![The RL Process: a loop of state, action, reward and next state](image.png)
-The RL Process: a loop of state, action, reward and next state
 - 다음 그림처럼 RL loop는 state, action, reward를 진행하고 다음 state를 반복하는 방식으로 진행한다.
     ![image.png](image%201.png)
 - Agent의 목표는 expected return인 cumulative reward을 최대화하는 것이다.
