@@ -1,7 +1,6 @@
 # Reinforcement_learning_study
 강화학습을 공부하고 내용을 정리
 
-  
 - Contents
 1. Markov Decision Precess(MDP)
 2. Monte Carlo & Temporal Difference(MC & TD)
